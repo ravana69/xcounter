@@ -8,7 +8,7 @@ html, body, div, ol, li, label, input {
 html, body {
   width: 100%;
   min-height: 100%;
-  background: #F1ECE3;
+  background: #000;
   font-size: 100%;
   font-size: 1.2rem;
   display: flex;
